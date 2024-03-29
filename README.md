@@ -6,7 +6,7 @@ _Implementation of the string.h library with additions._
 
 ---
 
-### [s21_decimal](https://github.com/Garjelin/s21_decimal)/)
+### [s21_decimal](https://github.com/Garjelin/s21_decimal/)
 
 _Implementation of the decimal.h library functions_
 
