@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > С/C++ language
-### [SmartCalc-v1.0]([https://github.com/Garjelin/SmartCalc-v1.0/)
+### [SmartCalc-v1.0](https://github.com/Garjelin/SmartCalc-v1.0/)
 
 _Implementation of SmartCalc v1.0_
 ![SmartCalc v1.0](https://github.com/Garjelin/SmartCalc-v1.0/blob/main/SmartCalc-v1.0.png)
