@@ -3,6 +3,15 @@
 
 > [!NOTE]
 > С/C++ language
+### [3DViewer-v1.0](https://github.com/Garjelin/3DViewer-v1.0/)
+
+_Implementation of 3DViewer v1.0_
+![3DViewer-v1.0](https://github.com/Garjelin/3DViewer-v1.0/blob/main/Animation_3.gif)
+
+---
+
+> [!NOTE]
+> С/C++ language
 ### [SmartCalc-v1.0](https://github.com/Garjelin/SmartCalc-v1.0/)
 
 _Implementation of SmartCalc v1.0_
