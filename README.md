@@ -2,6 +2,15 @@
 ## Links to Projects:
 
 > [!NOTE]
+> С/C++ language
+### [SmartCalc-v1.0]([https://github.com/Garjelin/SmartCalc-v1.0/)
+
+_Implementation of SmartCalc v1.0_
+![SmartCalc v1.0](https://github.com/Garjelin/SmartCalc-v1.0/blob/main/SmartCalc-v1.0.png)
+
+---
+
+> [!NOTE]
 > C++ language
 ### [s21_matrix](https://github.com/Garjelin/s21_matrix/)
 
