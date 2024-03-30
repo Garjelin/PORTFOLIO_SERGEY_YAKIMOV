@@ -1,4 +1,4 @@
-# PORTFOLIO_SERGEY_YAKIMOV
+# PORTFOLIO_Sergey_Yakimov
 ## Links to Projects:
 
 > [!NOTE]
