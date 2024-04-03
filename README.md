@@ -1,4 +1,5 @@
 # PORTFOLIO_Sergey_Yakimov
+![RESUME](https://drive.google.com/file/d/1HPW457EY7zqc0wP__24nkUE_RRX-DDIn/view?usp=drive_link)
 ## Links to Projects:
 
 > [!NOTE]
